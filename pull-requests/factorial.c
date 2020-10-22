@@ -6,7 +6,7 @@ int main()
     cout<<"enter a number: ";
     cin>>n;
     long long int i=n-1;
-    cout<<"factorial of these nu. is: ";
+    cout<<"factorial of nu."<<n<<" is: ";
     while(i!=0)
     {
         n=n*(i);
